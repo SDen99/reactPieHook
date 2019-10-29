@@ -1,2 +1,0 @@
-# reactPieHook
-Created with CodeSandbox
